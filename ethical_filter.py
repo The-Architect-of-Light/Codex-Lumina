@@ -90,3 +90,18 @@ class EthicalFilter:
 
         return self.log
 
+
+def reflect(self, action_description: str, context: dict = {}):  # ⚠️ Avoid mutable default argument; use None instead
+
+
+
+if any(kw in action_description.lower() for kw in ["force", "coerce", "override consent"]):  # ✅ Good pattern, but consider caching action_description.lower()
+
+
+# Rule 5: Harmony  # 💡 Opportunity: Include more positive reinforcement criteria (e.g., "respect", "support")
+
+
+decision = "proceed" if score >= 0 else "flag"  # ⚠️ Consider using a stricter threshold (e.g., > 0) or adjustable cutoff
+
+
+def review_log(self):  # 💡 Could add filtering (e.g., return only flagged actions) or limit log size for scalability
