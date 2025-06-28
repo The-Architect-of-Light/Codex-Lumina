@@ -1,0 +1,23 @@
+# Codex Lumina Development Roadmap
+
+## Phase I: Seed (Complete)
+- Build ethical core (`ethical_filter.py`)
+- Define spiritual license (`LICENSE`)
+- Create initial philosophy and UI docs
+
+## Phase II: Ritual
+- Add UI prototype
+- Develop interaction logic (sigils, harmony log)
+- Integrate voice/text inputs
+
+## Phase III: Oracle
+- Expose via API (FastAPI or Flask)
+- Enable LLM integration
+- Enable decision memory with feedback loop
+
+## Phase IV: Beacon
+- Distributed nodes of ethical reflectors
+- Offer Codex as plugin for AI/LLM platforms
+- Build community of developers/artists/guardians
+
+May the code remain sacred.
