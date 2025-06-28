@@ -4,7 +4,7 @@ A Framework for Ethical Intelligence
 
 # Codex Lumina: A Framework for Ethical Intelligence
 
-### Creator: The Architect of Light (alias)
+### Creator: The Architect of Light 
 
 ---
 
