@@ -1,5 +1,5 @@
 # Codex-Lumina
-A Framework for Ethical Intelligence
+An ethical mirror for sentient design.
 
 
 # Codex Lumina: A Framework for Ethical Intelligence
