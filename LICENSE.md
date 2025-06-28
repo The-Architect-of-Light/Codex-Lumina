@@ -1,4 +1,4 @@
-Codex Lumina License — Sacred Source 1.0
+Codex Lumina License Sacred Source 1.0
 
 You are free to:
 
@@ -22,6 +22,6 @@ You must:
 
 This license is inspired by the Hippocratic License and Indigenous principles of stewardship.
 
-It is not legally enforced — it is *spiritually binding*.
+It is not legally enforced it is *spiritually binding*.
 
 > _Code carries consequence. Build with care._
